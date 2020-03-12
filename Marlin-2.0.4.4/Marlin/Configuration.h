@@ -61,11 +61,7 @@
 // config/examples/delta directory and customize for your machine.
 //
 
-//===========================================================================
-//============================= SCARA Printer ===============================
-//===========================================================================
-// For a SCARA printer start with the configuration files in
-// config/examples/SCARA and customize for your machine.
+
 //
 
 // @section info
