@@ -60,7 +60,7 @@
 #define X_DIR_PIN                          P0_05
 #define X_ENABLE_PIN                       P0_04
 
-#define Y_STEP_PIN                         P2_01 // Motor Side B
+#define Y_STEP_PIN                         P2_01 //Motor Side B
 #define Y_DIR_PIN                          P0_11
 #define Y_ENABLE_PIN                       P0_10
 
@@ -81,9 +81,9 @@
 // 3.3V max when defined as an analog input
 //
 #define TEMP_0_PIN                      P0_23_A0  // (T1)
-#define TEMP_BED_PIN                    P0_24_A1  // (T2)
-#define TEMP_1_PIN                      P0_25_A2  // (T3)
-#define TEMP_2_PIN                      P0_26_A3  // (T4)
+#define TEMP_1_PIN                      P0_24_A1  // (T2)
+#define TEMP_2_PIN                      P0_25_A2  // (T3)
+#define TEMP_BED_PIN                    P0_26_A3  // (Heated Bed)
 
 //
 // Heaters / Fans
